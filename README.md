@@ -4,8 +4,7 @@
 
 <h4 align="center">Soy full stack developer, una persona proactiva , con ganas constantes de adquirir nuevos conocimientos.
   Me encanta trabajar en equipo, aportando todo lo que esta a mi alcance y a la vez mejorando constantemente de la mano de mis compañeros😀</h4>
-
-<h3 align="left">Contacto:</h3>
+## Contacto:
 <p align="left">
 <a href="https://linkedin.com/in/david-perez-1b411a231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David-Perez" height="30" width="40" /></a>
 </p>
